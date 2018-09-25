@@ -1,4 +1,4 @@
-# Flask学习（1.2）——Hello,Flask!
+# Flask学习(1.2)——Hello,Flask!
 
 对于简单的程序来说，一般使用app.py来作为程序的主模块。也可以使用其他名称，但不能使用flask.py，因为这和flask本身冲突。
 
