@@ -3,4 +3,4 @@ app = Flask(__name__) #实例化
 
 @app.route('/') #注册路由
 def index():
-    return '<h1>Hello,Flask!</h1>'
+    return '<h1>Hello,Flask!</h1>' 
